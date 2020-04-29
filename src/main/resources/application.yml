@@ -1,0 +1,12 @@
+server:
+  port: 8888
+  
+spring:
+  redis:
+    host: r-bp169464045a9c94pd.redis.rds.aliyuncs.com # Redis服务器地址
+    database: 0
+    port: 6379
+    password: CDS4i4lX$D2724e5bh
+    timeout: 1000ms
+    
+    
